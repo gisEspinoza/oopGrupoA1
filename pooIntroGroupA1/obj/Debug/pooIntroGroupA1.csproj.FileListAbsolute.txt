@@ -1,0 +1,10 @@
+C:\Users\Gisela\source\repos\pooIntroGroupA1\pooIntroGroupA1\bin\Debug\pooIntroGroupA1.exe.config
+C:\Users\Gisela\source\repos\pooIntroGroupA1\pooIntroGroupA1\bin\Debug\pooIntroGroupA1.exe
+C:\Users\Gisela\source\repos\pooIntroGroupA1\pooIntroGroupA1\bin\Debug\pooIntroGroupA1.pdb
+C:\Users\Gisela\source\repos\pooIntroGroupA1\pooIntroGroupA1\obj\Debug\pooIntroGroupA1.csprojAssemblyReference.cache
+C:\Users\Gisela\source\repos\pooIntroGroupA1\pooIntroGroupA1\obj\Debug\pooIntroGroupA1.Form1.resources
+C:\Users\Gisela\source\repos\pooIntroGroupA1\pooIntroGroupA1\obj\Debug\pooIntroGroupA1.Properties.Resources.resources
+C:\Users\Gisela\source\repos\pooIntroGroupA1\pooIntroGroupA1\obj\Debug\pooIntroGroupA1.csproj.GenerateResource.cache
+C:\Users\Gisela\source\repos\pooIntroGroupA1\pooIntroGroupA1\obj\Debug\pooIntroGroupA1.csproj.CoreCompileInputs.cache
+C:\Users\Gisela\source\repos\pooIntroGroupA1\pooIntroGroupA1\obj\Debug\pooIntroGroupA1.exe
+C:\Users\Gisela\source\repos\pooIntroGroupA1\pooIntroGroupA1\obj\Debug\pooIntroGroupA1.pdb
